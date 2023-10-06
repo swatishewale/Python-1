@@ -1,0 +1,10 @@
+Program - Assigning values to variables and printing their types
+
+name = "Swati"
+age = 25
+height = 5.2
+
+# Printing variables and their types
+print("Name:", name)
+print("Age:", age)
+print("Height:", height)
