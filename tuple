@@ -13,3 +13,11 @@ green
 blue
 
 
+
+Even though you can’t change a tuple, you can assign a new tuple to a variable that references a tuple. 
+
+colors = ('red', 'green', 'blue')
+print(colors)
+
+colors = ('Cyan', 'Magenta', 'Yellow', 'black')
+print(colors)
